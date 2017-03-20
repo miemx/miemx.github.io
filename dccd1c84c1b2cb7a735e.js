@@ -1,0 +1,1 @@
+webpackJsonp([11,13],{28:function(n,t,e){n.exports=function(n){return $.ajax({type:"POST",url:"//0."+e(1).HOST+"/I",data:{I:n},xhrFields:{withCredentials:!0},success:function(){return GO("/")}})}}});
